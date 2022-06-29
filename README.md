@@ -1188,9 +1188,7 @@ You're never really done.
     *****************************************************************************************************
 
 ---
-
-## Additional Books
-
+<details><summary>Additional Books</summary>
     These are here so you can dive into a topic you find interesting.
 
 - [The Unix Programming Environment](https://www.amazon.com/dp/013937681X)
@@ -1241,8 +1239,9 @@ You're never really done.
     - AKA CLR, sometimes CLRS, because Stein was late to the game
 - [Computer Architecture, Sixth Edition: A Quantitative Approach](https://www.amazon.com/dp/0128119055)
     - For a richer, more up-to-date (2017), but longer treatment
-
-## System Design, Scalability, Data Handling
+</details>
+		
+<details><summary> System Design, Scalability, Data Handling </summary>
 
 **You can expect system design questions if you have 4+ years of experience.**
 
@@ -1353,8 +1352,9 @@ You're never really done.
         - [Design a recommendation system](http://ijcai13.org/files/tutorial_slides/td3.pdf)
         - [Design a URL-shortener system: copied from above](http://www.hiredintech.com/system-design/the-system-design-process/)
         - [Design a cache system](https://web.archive.org/web/20220217064329/https://adayinthelifeof.nl/2011/02/06/memcache-internals/)
-
-## Additional Learning
+</details>
+		
+<details><summary> Additional Learning </summary>
 
     I added them to help you become a well-rounded software engineer, and to be aware of certain
     technologies and algorithms, so you'll have a bigger toolbox.
@@ -1681,8 +1681,7 @@ You're never really done.
             - [Introduction to Machine Learning with Python](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413/)
         - [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
         - Data School: http://www.dataschool.io/
-
----
+		</details>
 <details><summary>Additional Detail on Some Subjects</summary>
 
     I added these to reinforce some ideas already presented above, but didn't want to include them
