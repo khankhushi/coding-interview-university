@@ -1683,8 +1683,7 @@ You're never really done.
         - Data School: http://www.dataschool.io/
 
 ---
-
-## Additional Detail on Some Subjects
+<details><summary>Additional Detail on Some Subjects</summary>
 
     I added these to reinforce some ideas already presented above, but didn't want to include them
     above because it's just too much. It's easy to overdo it on a subject.
@@ -1863,3 +1862,4 @@ Sit back and enjoy.
 ## LICENSE
 
 [CC-BY-SA-4.0](./LICENSE.txt)
+</details>
